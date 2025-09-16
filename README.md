@@ -1,6 +1,6 @@
 # Sanika's Connect
 
-This is a beginner-friendly social media app built with Java Spring Boot (backend), MySQL, and HTML, CSS, JavaScript (frontend).
+This app built with Java Spring Boot (backend), MySQL, and HTML, CSS, JavaScript (frontend).
 
 ## Features
 - Register and Login with JWT authentication.
