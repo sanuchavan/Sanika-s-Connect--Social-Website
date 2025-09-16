@@ -1,20 +1,14 @@
-<div align="center">
+# Sanika's Connect
 
-</div>
+This is a beginner-friendly social media app built with Java Spring Boot (backend), MySQL, and HTML, CSS, JavaScript (frontend).
 
-# Run and deploy your AI Studio app
+## Features
+- Register and Login with JWT authentication.
+- Edit profile (name and picture).
+- Add, edit, delete posts.
+- Like, comment, and share posts.
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/temp/6
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## How to Run
+1. Configure MySQL in `application.properties`.
+2. Run the backend using Maven.
+3. Open `index.html` in your browser to access the frontend.
